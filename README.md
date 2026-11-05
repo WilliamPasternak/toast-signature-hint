@@ -2,6 +2,10 @@
 
 An independent proof-of-concept exploring a proposed feature enhancement for Toast handheld POS: a handwriting animation on the signature line that shows guests where and how to sign.
 
+<p align="center">
+  <img width="860" src="https://raw.githubusercontent.com/WilliamPasternak/toast-signature-hint/main/toast.gif" alt="Toast Signature Hint feature walkthrough">
+</p>
+
 > This is an unofficial, independently developed prototype. It is not affiliated with, endorsed by, or made by Toast, Inc. "Toast" and the Toast logo are trademarks of Toast, Inc.
 
 ## The Concept
